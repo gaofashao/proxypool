@@ -1,5 +1,5 @@
 # your domain
-domain: example.com
+domain: proxypoolss.heroku.com
 #domain: 127.0.0.1
 
 # database dsn(postgresql)

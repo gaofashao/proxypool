@@ -13,6 +13,6 @@ cf_key: ""
 # source definition file
 source-files:
   # use local file
-  - ./config/source.yaml
+#  - ./config/source.yaml
   # use web file
-#  - https://example.com/config/source.yaml
+  - https://raw.githubusercontent.com/newcastlecy/proxypool-1/master/source.yaml

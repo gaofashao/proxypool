@@ -1,5 +1,5 @@
 # your domain
-domain: example.com
+domain: cailanzi.herokuapp.com
 #domain: 127.0.0.1
 
 # database dsn(postgresql)
